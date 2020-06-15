@@ -1,0 +1,8 @@
+Universe = vanilla
+Executable = /home/users/ghuman/simAnalysis/bash_scripts/improvedfit.sh
+#notify_user = dilraj.ghuman@queensu.ca
+Arguments = 7
+Log = /home/users/ghuman/simAnalysis/submission_scripts/improvedfit/logs/log.log
+Output = /home/users/ghuman/simAnalysis/submission_scripts/improvedfit/logs/out.out
+Error = /home/users/ghuman/simAnalysis/submission_scripts/improvedfit/logs/error.error
+Queue

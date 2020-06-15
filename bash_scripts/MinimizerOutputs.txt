@@ -1,0 +1,479 @@
+initial guess: (-36.19194736400095, -96.20789000880904, 324.7709380602464, 0.98379875312975, 91.5994209792645, <icecube.dataclasses.I3Particle object at 0x145dc6b1ccb0>), 
+value of Q: 16344.557992986947
+results:
+------------------------------------------------------------------
+| FCN = 6112                    |     Ncalls=271 (271 total)     |
+| EDM = 5.27E-06 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2b41140>
+  q_x: -56.6035977448
+  q_y: -29.2289566813
+  q_z: 351.252929131
+  u_z: 0.894376117086
+  phi: 99.3562427243
+
+
+measured: 39335443.3261, calculated: 39335493.159179896, photon distance: 19.701910967403464, charge portion: 0.7609285092238866, distance factor: 19.703497044116126, charge factor: 2.049121869535144, average charge: 2
+measured: 39334954.3671, calculated: 39334964.209598266, photon distance: 141.26455985476719, charge portion: 5.890335608254925, distance factor: 141.26478107072938, charge factor: 2.212449592920978, average charge: 2
+measured: 39335591.1113, calculated: 39335423.897361726, photon distance: 111.64245871957951, charge portion: 4.3550112578131355, distance factor: 111.64273863065621, charge factor: 2.0697888655708154, average charge: 2
+measured: 39335414.5046, calculated: 39335251.33176254, photon distance: 84.76360072585398, charge portion: 3.306230291053697, distance factor: 84.76396939745091, charge factor: 2.0696126017971124, average charge: 2
+measured: 39334831.6666, calculated: 39335078.768526524, photon distance: 57.88593596468254, charge portion: 24.830856814097736, distance factor: 57.88647581695855, charge factor: 22.760502241009473, average charge: 2
+measured: 39334926.9519, calculated: 39334906.21379823, photon distance: 31.01256700821497, charge portion: 1.208116994272795, distance factor: 31.013574647870303, charge factor: 2.066923546993201, average charge: 2
+measured: 39334681.9374, calculated: 39334733.83147617, photon distance: 4.2262510345551725, charge portion: 0.1527888718674841, distance factor: 4.233638837581527, charge factor: 1.9148958738104906, average charge: 2
+measured: 39334655.7535, calculated: 39334651.24829658, photon distance: 22.782169313116192, charge portion: 0.5259909199909213, distance factor: 22.783540958584403, charge factor: 1.2249666663075336, average charge: 2
+measured: 39334455.9772, calculated: 39334452.92582906, photon distance: 103.40710949273698, charge portion: 2.3879130326766487, distance factor: 103.4074116958881, charge factor: 1.2252764423351408, average charge: 2
+Qvalue: 6112.325362954218
+
+initial guess: (-43.906975246965885, -19.190561997354962, -368.1566329142079, 0.7928121429264646, 171.02621873553971, <icecube.dataclasses.I3Particle object at 0x145dc6b39100>), 
+value of Q: 7025.270198437102
+results:
+------------------------------------------------------------------
+| FCN = 538.8                   |     Ncalls=221 (221 total)     |
+| EDM = 3.46E-06 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2ade010>
+  q_x: -68.9344808174
+  q_y: -34.2818633105
+  q_z: -346.251201811
+  u_z: 0.804594881544
+  phi: 234.99244575
+
+
+measured: 28717451.7559, calculated: 28717444.674827307, photon distance: 83.84715426974465, charge portion: 4.986995209126354, distance factor: 83.84752697089138, charge factor: 1.577923496110426, average charge: 1
+measured: 28717588.0523, calculated: 28717586.002338994, photon distance: 36.83509370149643, charge portion: 1.8938308633403027, distance factor: 36.83594206747022, charge factor: 1.363975779753114, average charge: 1
+measured: 28717427.2465, calculated: 28717452.562503245, photon distance: 23.663376928653154, charge portion: 0.9690168262684941, distance factor: 23.66469749790845, charge factor: 1.0863446026798058, average charge: 1
+measured: 28717652.0542, calculated: 28717631.34705256, photon distance: 136.8512613024672, charge portion: 4.837978361184326, distance factor: 136.8514896523825, charge factor: 0.937889432173862, average charge: 1
+measured: 28718064.2997, calculated: 28718026.60374843, photon distance: 137.44730287319038, charge portion: 10.843864386869534, distance factor: 137.4475302328657, charge factor: 2.0930730562873254, average charge: 1
+measured: 28717803.7443, calculated: 28717882.719281103, photon distance: 119.00178371702052, charge portion: 4.187728272789266, distance factor: 119.0020463178366, charge factor: 0.9336010137201057, average charge: 1
+measured: 28717689.0968, calculated: 28717652.34222406, photon distance: 111.08959628285103, charge portion: 4.4156045387526826, distance factor: 111.08987758696483, charge factor: 1.0545154154248024, average charge: 1
+Qvalue: 538.7833314554715
+
+initial guess: (60.57124787243083, 70.00195629382506, 123.3318691086024, 0.7295791299654263, 15.695659191995027, <icecube.dataclasses.I3Particle object at 0x145dc6b39310>), 
+value of Q: 25547.59654135005
+results:
+------------------------------------------------------------------
+| FCN = 7385                    |     Ncalls=314 (314 total)     |
+| EDM = 0.000125 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2b1a450>
+  q_x: 195.461085639
+  q_y: 33.4982855817
+  q_z: 76.0514152198
+  u_z: 0.382827282032
+  phi: 3.8552021577
+
+
+measured: 27536648.7486, calculated: 27536669.20680522, photon distance: 224.55307524743205, charge portion: 9.821472558205777, distance factor: 224.55321441270635, charge factor: 1.1603648945782148, average charge: 1
+measured: 27536461.3233, calculated: 27536363.701802667, photon distance: 121.87715325873484, charge portion: 4.537806524436161, distance factor: 121.87740966419142, charge factor: 0.9877795025755485, average charge: 1
+measured: 27536172.0395, calculated: 27536228.62463578, photon distance: 79.46398965416856, charge portion: 2.8022546485664264, distance factor: 79.46438291308759, charge factor: 0.9355614817745352, average charge: 1
+measured: 27536199.6659, calculated: 27536144.46169438, photon distance: 62.758919415018845, charge portion: 3.4107986201655565, distance factor: 62.75941735023382, charge factor: 1.4418312217274765, average charge: 1
+measured: 27536009.3124, calculated: 27536032.785118815, photon distance: 98.75841568954897, charge portion: 4.13620749146472, distance factor: 98.7587321177715, charge factor: 1.111127921505714, average charge: 1
+measured: 27535811.3279, calculated: 27535885.68250391, photon distance: 50.273248878917826, charge portion: 14.035673350428471, distance factor: 50.27387047802877, charge factor: 7.406758430298359, average charge: 1
+measured: 27537264.7992, calculated: 27537008.923043508, photon distance: 233.32723455123661, charge portion: 9.87703540510929, distance factor: 233.32736848327028, charge factor: 1.1230476347498761, average charge: 1
+measured: 27536615.0655, calculated: 27536855.691329706, photon distance: 181.74730502783598, charge portion: 7.202068663013625, distance factor: 181.7474769697815, charge factor: 1.05129867448735, average charge: 1
+measured: 27536731.4922, calculated: 27536708.792543627, photon distance: 133.36505740077905, charge portion: 4.811401667927911, distance factor: 133.3652917198215, charge factor: 0.9571192369772767, average charge: 1
+measured: 27535478.6808, calculated: 27535494.48472875, photon distance: 31.618770894281987, charge portion: 3.9755229625937827, distance factor: 31.61975921579881, charge factor: 3.3355922629832895, average charge: 1
+Qvalue: 7385.403148258624
+
+initial guess: (84.71994964499027, -16.652855415362865, 292.21598630957305, 0.4527742306048558, 79.80174605405779, <icecube.dataclasses.I3Particle object at 0x145dc6b39ba8>), 
+value of Q: 70174.40193442705
+results:
+------------------------------------------------------------------
+| FCN = 4.93E+04                |     Ncalls=177 (177 total)     |
+| EDM = 7.03E-05 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2d2aef0>
+  q_x: 119.854903033
+  q_y: -14.1692324714
+  q_z: 353.55219596
+  u_z: 0.595216705758
+  phi: 61.9602217679
+
+
+measured: 23279963.549, calculated: 23280033.21099458, photon distance: 85.74756956434126, charge portion: 2.225801686335878, distance factor: 85.74793400538314, charge factor: 1.3773047577982167, average charge: 2
+measured: 23280860.9773, calculated: 23280005.532956455, photon distance: 111.87218185510773, charge portion: 3.7980296950889496, distance factor: 111.87246119140445, charge factor: 1.8013678565328946, average charge: 2
+measured: 23279844.6354, calculated: 23280000.579237625, photon distance: 149.47097285518075, charge portion: 17.63633695715789, distance factor: 149.47118192572833, charge factor: 6.260631828092356, average charge: 2
+measured: 23279853.3109, calculated: 23279863.07580814, photon distance: 104.82992738894089, charge portion: 3.732279479799104, distance factor: 104.83022549041196, charge factor: 1.8890997159617218, average charge: 2
+measured: 23279818.0702, calculated: 23279768.600520473, photon distance: 97.22663925163286, charge portion: 6.538558074595362, distance factor: 97.22696066507045, charge factor: 3.5683095415597963, average charge: 2
+measured: 23279553.6545, calculated: 23279718.761201337, photon distance: 112.16136745949932, charge portion: 6.501203322836099, distance factor: 112.16164607558518, charge factor: 3.075506292741288, average charge: 2
+measured: 23279513.0793, calculated: 23279699.87693723, photon distance: 142.7262154862366, charge portion: 5.035166596468146, distance factor: 142.7264344367351, charge factor: 1.871874265359188, average charge: 2
+measured: 23280100.4991, calculated: 23280380.287472203, photon distance: 101.13073793093007, charge portion: 15.74086710150047, distance factor: 101.13104693641047, charge factor: 8.258694374347588, average charge: 2
+measured: 23280453.2257, calculated: 23280368.999127634, photon distance: 135.5309896551223, charge portion: 5.103307314248001, distance factor: 135.53122022949867, charge factor: 1.9979270136834695, average charge: 2
+measured: 23280181.7165, calculated: 23280370.838230684, photon distance: 176.5596766698456, charge portion: 7.288761587654807, distance factor: 176.55985366373756, charge factor: 2.1904282418443937, average charge: 2
+measured: 23279413.8991, calculated: 23279394.15283197, photon distance: 183.55304560534057, charge portion: 6.172105305574594, distance factor: 183.55321585577366, charge factor: 1.7841796232603937, average charge: 2
+measured: 23279819.3686, calculated: 23279795.40268395, photon distance: 33.038800947095375, charge portion: 1.1541493174888586, distance factor: 33.03974679112705, charge factor: 1.8534997611544908, average charge: 2
+measured: 23279616.3726, calculated: 23279738.137425434, photon distance: 44.22395345126912, charge portion: 18.97641959339377, distance factor: 44.22466007625177, charge factor: 22.767587628472544, average charge: 2
+measured: 23279887.535, calculated: 23279742.460068468, photon distance: 86.50665301651303, charge portion: 15.138262614854634, distance factor: 86.50701425965055, charge factor: 9.285214860534612, average charge: 2
+Qvalue: 49296.68108769413
+
+initial guess: (-22.35311078769155, 30.670096046756953, -199.64196341857314, 0.972332341673987, 65.13464151087472, <icecube.dataclasses.I3Particle object at 0x145dc6b39e10>), 
+value of Q: 90865.93913238011
+results:
+------------------------------------------------------------------
+| FCN = 6.833E+04               |     Ncalls=214 (214 total)     |
+| EDM = 6.51E-08 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2d69f60>
+  q_x: -31.9002089946
+  q_y: 89.6213330693
+  q_z: -138.701040347
+  u_z: 0.933437149382
+  phi: 21.4245890583
+
+
+measured: 40203240.8894, calculated: 40203346.1096438, photon distance: 239.6331009519705, charge portion: 9.346199032059575, distance factor: 239.63323135962858, charge factor: 1.03472568856038, average charge: 1
+measured: 40204419.133, calculated: 40204464.564052686, photon distance: 124.53588947472856, charge portion: 6.013698376088553, distance factor: 124.53614040615602, charge factor: 1.281101352565627, average charge: 1
+measured: 40204099.9157, calculated: 40203997.608444415, photon distance: 77.41472605237465, charge portion: 2.933658620283384, distance factor: 77.41512972129036, charge factor: 1.005358558156801, average charge: 1
+measured: 40203823.9818, calculated: 40203855.229867555, photon distance: 68.40974828443967, charge portion: 4.826486559426714, distance factor: 68.41020508915608, charge factor: 1.8717483488715312, average charge: 1
+measured: 40203529.2047, calculated: 40203608.46687687, photon distance: 69.58416569957444, charge portion: 5.06659957461458, distance factor: 69.58461479454947, charge factor: 1.931704114643653, average charge: 1
+measured: 40203350.1468, calculated: 40203406.526240334, photon distance: 93.3907110549832, charge portion: 3.6846489786248777, distance factor: 93.39104567010352, charge factor: 1.0467142401234626, average charge: 1
+measured: 40202864.5074, calculated: 40203052.62011269, photon distance: 166.23772592377068, charge portion: 6.887952045911923, distance factor: 166.23791390746786, charge factor: 1.0992520507671881, average charge: 1
+measured: 40203281.2339, calculated: 40203271.88563033, photon distance: 72.64897821688102, charge portion: 2.8378406887913665, distance factor: 72.64940836618598, charge factor: 1.0363183289002122, average charge: 1
+measured: 40202982.0523, calculated: 40203126.89968117, photon distance: 62.32746131004674, charge portion: 2.2221562202586966, distance factor: 62.32796269216068, charge factor: 0.9458644559687839, average charge: 1
+measured: 40203149.3136, calculated: 40202994.75392412, photon distance: 58.489335913693864, charge portion: 2.0397998933836763, distance factor: 58.48987019668379, charge factor: 0.9252181786263761, average charge: 1
+measured: 40202912.1496, calculated: 40202877.84305899, photon distance: 62.34375656603866, charge portion: 2.2736145796584357, distance factor: 62.34425781710364, charge factor: 0.9675148427509274, average charge: 1
+measured: 40202707.0896, calculated: 40202773.763212435, photon distance: 72.67693674596556, charge portion: 5.580307165124566, distance factor: 72.67736672979477, charge factor: 2.0370241211568563, average charge: 1
+measured: 40203063.8056, calculated: 40202678.012456514, photon distance: 87.21572032414625, charge portion: 3.464612375981796, distance factor: 87.21607863037467, charge factor: 1.0538901516581771, average charge: 1
+measured: 40203404.1591, calculated: 40203186.8039149, photon distance: 172.748394473127, charge portion: 6.050268940186204, distance factor: 172.7485753719639, charge factor: 0.9291748695323274, average charge: 1
+measured: 40202781.5981, calculated: 40203054.934872665, photon distance: 169.04999054663494, charge portion: 5.880248638785316, distance factor: 169.05017540309552, charge factor: 0.9228206715254188, average charge: 1
+measured: 40202815.5843, calculated: 40202928.42434637, photon distance: 168.0572592882041, charge portion: 5.8671241625173005, distance factor: 168.05744523662932, charge factor: 0.9261999896072316, average charge: 1
+measured: 40202626.7922, calculated: 40202807.36632466, photon distance: 169.8176583279224, charge portion: 6.000638219359805, distance factor: 169.81784234873257, charge factor: 0.9374570407783998, average charge: 1
+measured: 40204113.9832, calculated: 40203290.92774787, photon distance: 251.65164390687366, charge portion: 9.045828138821149, distance factor: 251.6517680864411, charge factor: 0.953642497121225, average charge: 1
+measured: 40202718.1363, calculated: 40203179.29393328, photon distance: 258.17060294296624, charge portion: 9.405033949083508, distance factor: 258.17072398692835, charge factor: 0.9664750007898607, average charge: 1
+measured: 40204082.2945, calculated: 40204174.79047863, photon distance: 124.7500158152636, charge portion: 6.318869818390717, distance factor: 124.75026631598233, charge factor: 1.3438016705895293, average charge: 1
+measured: 40203960.6056, calculated: 40204013.17681789, photon distance: 106.03267715704287, charge portion: 10.156338114523786, distance factor: 106.03297187709906, charge factor: 2.541168519643381, average charge: 1
+measured: 40204017.567, calculated: 40203854.1384912, photon distance: 88.61570057919677, charge portion: 3.9207858945541676, distance factor: 88.61605322480716, charge factor: 1.1738104552979929, average charge: 1
+Qvalue: 68332.44196423294
+
+initial guess: (8.449770297622308, -50.84472346864641, -168.40361318096984, 0.1785050573828377, 47.59285955383072, <icecube.dataclasses.I3Particle object at 0x145dc6b392b8>), 
+value of Q: 141840.35923468383
+results:
+------------------------------------------------------------------
+| FCN = 7.544E+04               |     Ncalls=211 (211 total)     |
+| EDM = 6.51E-07 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2ce57b0>
+  q_x: 51.9558985906
+  q_y: 21.5634368339
+  q_z: -79.4590654008
+  u_z: 0.301398653293
+  phi: 42.6809781412
+
+
+measured: 23296929.2788, calculated: 23297143.030508157, photon distance: 175.27256878742665, charge portion: 29.952625672615188, distance factor: 175.27274708106566, charge factor: 4.533751951334165, average charge: 1
+measured: 23296641.8307, calculated: 23296591.188940812, photon distance: 40.95981492435515, charge portion: 2.4241609305781204, distance factor: 40.9605778601502, charge factor: 1.5701191938213954, average charge: 1
+measured: 23296560.1935, calculated: 23296615.946613103, photon distance: 73.76608291465229, charge portion: 21.307690911509955, distance factor: 73.76650654986554, charge factor: 7.663275195230043, average charge: 1
+measured: 23296549.0104, calculated: 23296678.355413806, photon distance: 125.58351556938922, charge portion: 20.71721497061196, distance factor: 125.58376440753409, charge factor: 4.376582560359703, average charge: 1
+measured: 23296654.7036, calculated: 23296761.78888792, photon distance: 65.50494388651276, charge portion: 9.869947937301491, distance factor: 65.50542094800389, charge factor: 3.99737479718597, average charge: 1
+measured: 23296759.2731, calculated: 23296790.334124688, photon distance: 100.22366483478893, charge portion: 13.67899949471315, distance factor: 100.22397663691113, charge factor: 3.6209285319964772, average charge: 1
+measured: 23296854.1556, calculated: 23296847.806202784, photon distance: 149.54840071534957, charge portion: 47.31145311835468, distance factor: 149.5486096776522, charge factor: 8.393076030164636, average charge: 1
+measured: 23297985.26, calculated: 23296913.654893994, photon distance: 203.1027354921227, charge portion: 33.77012474712127, distance factor: 203.10288935508316, charge factor: 4.411170182689007, average charge: 1
+measured: 23297188.9906, calculated: 23297264.14404869, photon distance: 21.31379372804745, charge portion: 0.8276460289717977, distance factor: 21.315259864279273, charge factor: 1.0301281470848367, average charge: 1
+measured: 23296723.57, calculated: 23296492.325360224, photon distance: 71.35782444583892, charge portion: 3.231357895053931, distance factor: 71.35826237824998, charge factor: 1.2013734933925562, average charge: 1
+measured: 23296341.7332, calculated: 23296467.491997074, photon distance: 79.12411673398496, charge portion: 7.335032283962729, distance factor: 79.1245116821158, charge factor: 2.4593947230326543, average charge: 1
+measured: 23296141.8323, calculated: 23296504.868535236, photon distance: 118.30202209803994, charge portion: 66.64882098403771, distance factor: 118.30228625214785, charge factor: 14.946399403793585, average charge: 1
+measured: 23296304.6048, calculated: 23296563.50490904, photon distance: 168.2146452015957, charge portion: 53.32544753976566, distance factor: 168.214830976043, charge factor: 8.410222303356038, average charge: 1
+Qvalue: 75443.63985699555
+
+initial guess: (12.9975714571774, 111.58048340957612, 95.19099239679053, 0.6451444393480373, 65.37401473797041, <icecube.dataclasses.I3Particle object at 0x145dc6b39db8>), 
+value of Q: 161220.52219326282
+results:
+------------------------------------------------------------------
+| FCN = 2.483E+04               |     Ncalls=296 (296 total)     |
+| EDM = 1.41E-05 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2c64f00>
+  q_x: 113.843654523
+  q_y: 250.98615579
+  q_z: 59.5784672522
+  u_z: 0.32307214624
+  phi: 58.9459802341
+
+
+measured: 29233468.6543, calculated: 29233403.737159748, photon distance: 245.446530943021, charge portion: 2.082320675428648, distance factor: 245.44665826195998, charge factor: 1.1253762408156587, average charge: 5
+measured: 29233342.4246, calculated: 29233248.787090287, photon distance: 188.9732173470695, charge portion: 1.5909658987290745, distance factor: 188.9733827143462, charge factor: 1.1167796407890105, average charge: 5
+measured: 29233031.9184, calculated: 29233094.50756793, photon distance: 132.83848275029905, charge portion: 1.0979028770193668, distance factor: 132.83871799818567, charge factor: 1.0963431357310158, average charge: 5
+measured: 29233035.861, calculated: 29232942.357345548, photon distance: 77.77889448082654, charge portion: 1.2106790245826127, distance factor: 77.7792962597345, charge factor: 2.064772765166078, average charge: 5
+measured: 29232637.3352, calculated: 29232805.327222902, photon distance: 30.353890298887986, charge portion: 1.1321558010986348, distance factor: 30.35491980350016, charge factor: 4.947483570634139, average charge: 5
+measured: 29232852.0357, calculated: 29232976.008083887, photon distance: 167.3073822086522, charge portion: 1.3130133968377269, distance factor: 167.3075689905033, charge factor: 1.0410241935940792, average charge: 5
+measured: 29232710.5601, calculated: 29232828.482422106, photon distance: 114.5828709158174, charge portion: 0.8396290933410685, distance factor: 114.58314364386618, charge factor: 0.9720173115328462, average charge: 5
+measured: 29232448.0977, calculated: 29232694.72719527, photon distance: 68.81145816990829, charge portion: 3.902098710601716, distance factor: 68.81191230789214, charge factor: 7.522148078741184, average charge: 5
+measured: 29232758.6945, calculated: 29232620.308906324, photon distance: 53.00101457506766, charge portion: 0.6830364778039446, distance factor: 53.00160418314274, charge factor: 1.7094725749736888, average charge: 5
+measured: 29232769.9359, calculated: 29232501.989406615, photon distance: 78.4492527791383, charge portion: 1.9916949720055306, distance factor: 78.4496511248147, charge factor: 3.3677439510366938, average charge: 5
+measured: 29232080.3324, calculated: 29232348.856265903, photon distance: 22.893360067836124, charge portion: 10.870467232263154, distance factor: 22.894725051757963, charge factor: 62.982519995320345, average charge: 5
+measured: 29232312.0821, calculated: 29232333.506721027, photon distance: 36.908466659363896, charge portion: 1.20540808920501, distance factor: 36.909313338849536, charge factor: 4.332168999327925, average charge: 5
+measured: 29233360.3915, calculated: 29233236.157194965, photon distance: 133.98587910511245, charge portion: 1.1354564449051154, distance factor: 133.98611233844278, charge factor: 1.1241336492860443, average charge: 5
+measured: 29233509.8673, calculated: 29233350.054514177, photon distance: 204.36461107528453, charge portion: 1.4650906436680333, distance factor: 204.36476398819906, charge factor: 0.9509676232336557, average charge: 5
+measured: 29233517.8489, calculated: 29233214.961026717, photon distance: 157.9174710903352, charge portion: 1.0985080599373243, distance factor: 157.91766897838522, charge factor: 0.9227409136252569, average charge: 5
+measured: 29232861.9024, calculated: 29233098.235083003, photon distance: 120.7446454031843, charge portion: 0.915943151376372, distance factor: 120.74490421355559, charge factor: 1.0062524776630317, average charge: 5
+Qvalue: 24834.697760794068
+
+initial guess: (45.62309029372409, -20.621704558026977, -321.8531847370905, 0.3407318732647338, 29.542810810347586, <icecube.dataclasses.I3Particle object at 0x145dc6b39d08>), 
+value of Q: 330452.5755398258
+results:
+------------------------------------------------------------------
+| FCN = 3.018E+05               |     Ncalls=222 (222 total)     |
+| EDM = 0.00013 (Goal: 0.0002)  |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2afb9a0>
+  q_x: 129.790226647
+  q_y: -52.1979013059
+  q_z: -334.039854363
+  u_z: 0.248712657853
+  phi: 17.8384691573
+
+
+measured: 20957275.5514, calculated: 20957456.507483568, photon distance: 140.73052209190345, charge portion: 5.103265476665086, distance factor: 140.73074414732457, charge factor: 1.9240946094080413, average charge: 2
+measured: 20956797.8831, calculated: 20957362.63872048, photon distance: 110.08932198213421, charge portion: 12.302581078083186, distance factor: 110.08960584217758, charge factor: 5.929487593396419, average charge: 2
+measured: 20957064.6697, calculated: 20957321.108633693, photon distance: 105.87546244299196, charge portion: 11.113332472248429, distance factor: 105.87575760067742, charge factor: 5.569484784246104, average charge: 2
+measured: 20956858.4638, calculated: 20957573.062900852, photon distance: 239.41120424836313, charge portion: 5.01396729067832, distance factor: 239.41133477688865, charge factor: 1.111230195894107, average charge: 2
+measured: 20958127.7594, calculated: 20957502.201162666, photon distance: 220.38692924286613, charge portion: 5.358129180791038, distance factor: 220.38707103888848, charge factor: 1.290013670006104, average charge: 2
+measured: 20958706.1907, calculated: 20957460.064392053, photon distance: 215.86673715362872, charge portion: 6.487605928756604, distance factor: 215.86688191882013, charge factor: 1.5946511457430466, average charge: 2
+measured: 20956395.7136, calculated: 20956998.984858952, photon distance: 133.22013585900444, charge portion: 9.879986427847392, distance factor: 133.22037043294694, charge factor: 3.9350744796603117, average charge: 2
+measured: 20956347.5585, calculated: 20956912.72290249, photon distance: 106.41983665791564, charge portion: 30.296813517803415, distance factor: 106.42013030577178, charge factor: 15.105684616582945, average charge: 2
+measured: 20958189.3481, calculated: 20957363.63832931, photon distance: 180.2456831437161, charge portion: 3.382763866319002, distance factor: 180.24585651810392, charge factor: 0.9958034776175746, average charge: 2
+measured: 20957301.7948, calculated: 20957218.270000223, photon distance: 123.60083399134915, charge portion: 2.2702484423475897, distance factor: 123.6010868210998, charge factor: 0.9745819025468281, average charge: 2
+measured: 20957221.3814, calculated: 20957078.095981628, photon distance: 69.57874532911825, charge portion: 2.4317030023172124, distance factor: 69.57919445907875, charge factor: 1.8543784863567911, average charge: 2
+measured: 20956923.7455, calculated: 20956975.16161052, photon distance: 34.360052482448694, charge portion: 1.8530444509785042, distance factor: 34.36096195679959, charge factor: 2.861460592766166, average charge: 2
+measured: 20957269.6444, calculated: 20957739.38263012, photon distance: 197.22732821150913, charge portion: 10.642646697287613, distance factor: 197.2274866580476, charge factor: 2.8631852655363086, average charge: 2
+measured: 20958304.8837, calculated: 20957715.322484147, photon distance: 201.83455678952916, charge portion: 7.240168830174625, distance factor: 201.83471161924965, charge factor: 1.9033562415852887, average charge: 2
+measured: 20956592.5712, calculated: 20956737.881877195, photon distance: 42.13988572484316, charge portion: 2.2264395463767297, distance factor: 42.14062729602919, charge factor: 2.8033489274109797, average charge: 2
+measured: 20958455.6415, calculated: 20957557.452554807, photon distance: 150.14005430931456, charge portion: 2.823049869616562, distance factor: 150.1402624481652, charge factor: 0.9976739326239623, average charge: 2
+measured: 20957179.105, calculated: 20957412.097238548, photon distance: 93.50177571602904, charge portion: 1.7109234280937884, distance factor: 93.5021099336833, charge factor: 0.9709042625780699, average charge: 2
+measured: 20956718.0359, calculated: 20957275.8349655, photon distance: 41.45484269542421, charge portion: 4.374761479898487, distance factor: 41.45559652088444, charge factor: 5.5993608488174615, average charge: 2
+measured: 20957166.887, calculated: 20957236.47747788, photon distance: 38.337992521247465, charge portion: 2.5831358801797855, distance factor: 38.33880763090092, charge factor: 3.574998761616902, average charge: 2
+Qvalue: 301822.9930494377
+
+initial guess: (5.022752184573619, -42.142614499811316, -307.8914424997638, -0.39774534113511223, 210.04372928637005, <icecube.dataclasses.I3Particle object at 0x145dc6b39100>), 
+value of Q: 341821.8677444967
+results:
+------------------------------------------------------------------
+| FCN = 2.988E+05               |     Ncalls=251 (251 total)     |
+| EDM = 6.29E-05 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2d27160>
+  q_x: -64.1384588429
+  q_y: 102.39855139
+  q_z: -367.630160001
+  u_z: -0.768056059197
+  phi: 197.0541382
+
+
+measured: 1349702.42781, calculated: 1349802.0957104678, photon distance: 214.39047764022067, charge portion: 109.00533720683546, distance factor: 214.39062340224203, charge factor: 13.488983567492635, average charge: 1
+measured: 1349734.15046, calculated: 1349933.126209617, photon distance: 228.80728945561046, charge portion: 393.64467509463674, distance factor: 228.80742603338624, charge factor: 45.642719781030515, average charge: 1
+measured: 1349813.2183, calculated: 1350021.9014089198, photon distance: 240.4446329221983, charge portion: 38.451659715294916, distance factor: 240.4447628897138, charge factor: 4.242648165785502, average charge: 1
+measured: 1349883.53941, calculated: 1350090.9799613007, photon distance: 223.5800805150792, charge portion: 39.87490735953896, distance factor: 223.58022028598438, charge factor: 4.73155134606907, average charge: 1
+measured: 1350060.09355, calculated: 1350171.3651467676, photon distance: 212.42458046455766, charge portion: 43.99303808827291, distance factor: 212.42472757554225, charge factor: 5.494347639291782, average charge: 1
+measured: 1349540.84539, calculated: 1349877.3398364868, photon distance: 288.3535967907277, charge portion: 54.79131430528368, distance factor: 288.3537051645939, charge factor: 5.041078170608022, average charge: 1
+measured: 1349861.81069, calculated: 1349962.0515120032, photon distance: 279.38266910809153, charge portion: 60.30172912068595, distance factor: 279.38278096182194, charge factor: 5.7262114295813165, average charge: 1
+measured: 1350289.35658, calculated: 1350056.9231034454, photon distance: 275.54178248343493, charge portion: 70.60722625598135, distance factor: 275.54189589633836, charge factor: 6.798275472692201, average charge: 1
+measured: 1350931.8589, calculated: 1350162.3773386404, photon distance: 277.0443846583273, charge portion: 89.43811102904576, distance factor: 277.04449745611487, charge factor: 8.564664187118337, average charge: 1
+measured: 1349943.60312, calculated: 1350133.5566573353, photon distance: 227.384593464633, charge portion: 54.30264443125973, distance factor: 227.3847308969457, charge factor: 6.3357339390314875, average charge: 1
+measured: 1350569.17802, calculated: 1350172.5879644647, photon distance: 195.34830115869033, charge portion: 24.486573118695368, distance factor: 195.34846112930188, charge factor: 3.3254870864275525, average charge: 1
+measured: 1350083.07222, calculated: 1350217.0852093722, photon distance: 166.0719219689823, charge portion: 22.457421517088456, distance factor: 166.07211014035965, charge factor: 3.5875704375936848, average charge: 1
+measured: 1351304.41341, calculated: 1350298.7427641626, photon distance: 365.6504278812024, charge portion: 64.95828450711939, distance factor: 365.65051334533416, charge factor: 4.71308866000767, average charge: 1
+measured: 1349737.79442, calculated: 1350376.3502954228, photon distance: 353.0924083384167, charge portion: 68.2471585874001, distance factor: 353.0924968421493, charge factor: 5.127826655951728, average charge: 1
+measured: 1349339.35225, calculated: 1349801.7184710302, photon distance: 335.374093519203, charge portion: 92.326127785847, distance factor: 335.3741866987188, charge factor: 7.303520268716849, average charge: 1
+measured: 1349363.15565, calculated: 1349909.8483476616, photon distance: 338.22770593119037, charge portion: 114.11375854927425, distance factor: 338.2277983245549, charge factor: 8.950884667992879, average charge: 1
+measured: 1351567.91989, calculated: 1350026.4760402376, photon distance: 345.37211612331987, charge portion: 149.53385298727963, distance factor: 345.37220660542437, charge factor: 11.486544209056287, average charge: 1
+measured: 1349439.85693, calculated: 1350151.0909048668, photon distance: 356.5494849412905, charge portion: 206.77650801870763, distance factor: 356.54957258689785, charge factor: 15.385744871140817, average charge: 1
+Qvalue: 298842.38234166236
+
+initial guess: (-5.757369879749604, 34.99586102471221, 54.29938867931196, 0.12428436582261523, 296.7175347490681, <icecube.dataclasses.I3Particle object at 0x145dc6b1cf18>), 
+value of Q: 58510.78124883882
+results:
+------------------------------------------------------------------
+| FCN = 3.847E+04               |     Ncalls=413 (420 total)     |
+| EDM = 0.754 (Goal: 0.0002)    |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     False     |     True      |   True    |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   False   |   False   |  True  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2d0b920>
+  q_x: 56.9975328767
+  q_y: 29.7509293525
+  q_z: 76.2232798532
+  u_z: 0.344163055428
+  phi: 295.179794113
+
+
+measured: 4522140.34922, calculated: 4522266.081834075, photon distance: 12.239600854644726, charge portion: 1.7218243674765252, distance factor: 12.242153776236432, charge factor: 3.7313696024487846, average charge: 1
+measured: 4522037.64735, calculated: 4522080.835303649, photon distance: 40.366374979721954, charge portion: 1.4051174940725055, distance factor: 40.36714913148466, charge factor: 0.9234679168529268, average charge: 1
+measured: 4522612.32784, calculated: 4522264.784298079, photon distance: 148.72875699154997, charge portion: 6.65883273127552, distance factor: 148.72896710544157, charge factor: 1.1877903531428218, average charge: 1
+measured: 4521807.04551, calculated: 4522214.3845123835, photon distance: 146.46686963414675, charge portion: 34.58443361892506, distance factor: 146.46708299282176, charge factor: 6.264376986022512, average charge: 1
+measured: 4522149.06244, calculated: 4522204.727440739, photon distance: 164.7771796666509, charge portion: 13.914445186383666, distance factor: 164.77736931658958, charge factor: 2.240296906825257, average charge: 1
+measured: 4522966.81294, calculated: 4522549.431181792, photon distance: 203.5464551053567, charge portion: 13.756555159848356, distance factor: 203.546608632905, charge factor: 1.7930114917757363, average charge: 1
+measured: 4522032.72095, calculated: 4521940.349087256, photon distance: 101.67667124096083, charge portion: 3.542362038575717, distance factor: 101.67697858730082, charge factor: 0.9242885281324782, average charge: 1
+measured: 4521582.40452, calculated: 4521838.08910333, photon distance: 73.22904099550725, charge portion: 26.438304927480967, distance factor: 73.22946773752818, charge factor: 9.578223786086824, average charge: 1
+measured: 4522475.44447, calculated: 4522564.634721754, photon distance: 2.9072163711573627e-05, charge portion: 0.00869746131108745, distance factor: 0.2500000016903814, charge factor: 0.9229745880918838, average charge: 1
+measured: 4522375.89772, calculated: 4522630.454940947, photon distance: 56.421048265153715, charge portion: 9.18140452409505, distance factor: 56.42160213374665, charge factor: 4.317187970785237, average charge: 1
+measured: 4523068.37291, calculated: 4522696.275260887, photon distance: 112.84211832898103, charge portion: 18.362677400279303, distance factor: 112.84239526424346, charge factor: 4.317187970785459, average charge: 1
+Qvalue: 38470.05933599127
+
+initial guess: (13.564204805537884, -46.341966328735, -305.32366563530377, 0.35220593175813364, 52.842980927298655, <icecube.dataclasses.I3Particle object at 0x145dc6b1cc00>), 
+value of Q: 90365.97015088532
+results:
+------------------------------------------------------------------
+| FCN = 6.572E+04               |     Ncalls=384 (384 total)     |
+| EDM = 5.34E-06 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2cd7ab0>
+  q_x: 149.122735514
+  q_y: 400.698098391
+  q_z: -423.311966134
+  u_z: 0.528908433801
+  phi: 52.2859851523
+
+
+measured: 1359127.49102, calculated: 1359264.772763841, photon distance: 502.5099291544697, charge portion: 21.55970752276594, distance factor: 502.5099913422918, charge factor: 1.1382441154077845, average charge: 1
+measured: 1359256.23118, calculated: 1359359.905068453, photon distance: 483.5145528543978, charge portion: 27.638831025618835, distance factor: 483.51461748533336, charge factor: 1.5165171032950413, average charge: 1
+measured: 1360247.4403, calculated: 1359312.0121005813, photon distance: 602.6412236702611, charge portion: 28.867465234021555, distance factor: 602.6412755253241, charge factor: 1.270828739685968, average charge: 1
+measured: 1358845.28173, calculated: 1359152.4125900639, photon distance: 557.6875716465137, charge portion: 25.423801332038707, distance factor: 557.6876276814695, charge factor: 1.2094466792156138, average charge: 1
+measured: 1359372.33135, calculated: 1359372.0471683745, photon distance: 432.09901340812166, charge portion: 17.783910890439294, distance factor: 432.0990857295027, charge factor: 1.0918957514728678, average charge: 1
+measured: 1359325.50626, calculated: 1359175.817033232, photon distance: 659.5373539357311, charge portion: 34.42789583476347, distance factor: 659.5374013174278, charge factor: 1.3848677492312211, average charge: 1
+measured: 1358475.68332, calculated: 1359012.9751064116, photon distance: 612.9465103365246, charge portion: 61.403934799127306, distance factor: 612.9465613197641, charge factor: 2.6577298789526953, average charge: 1
+Qvalue: 65719.06764274566
+
+initial guess: (-43.8256789984589, 74.16882628714666, 290.291219137609, 0.3826012902433023, 272.5434512260563, <icecube.dataclasses.I3Particle object at 0x145dc6b48310>), 
+value of Q: 19482.839945699267
+results:
+------------------------------------------------------------------
+| FCN = 6759                    |     Ncalls=350 (350 total)     |
+| EDM = 3.91E-05 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2cb5520>
+  q_x: -33.2311272873
+  q_y: 18.4293269709
+  q_z: 315.531442366
+  u_z: 0.94060904027
+  phi: 271.58441246
+
+
+measured: 13459358.2031, calculated: 13459435.767426437, photon distance: 44.26350670001461, charge portion: 1.874911455422107, distance factor: 44.26421269357717, charge factor: 1.1237385211544964, average charge: 1
+measured: 13459680.7229, calculated: 13459694.630890824, photon distance: 66.831745964911, charge portion: 2.689668475740784, distance factor: 66.83221355542847, charge factor: 1.067702248141488, average charge: 1
+measured: 13459773.0206, calculated: 13459605.32855358, photon distance: 85.10970037358643, charge portion: 3.4669419727253143, distance factor: 85.11006754598223, charge factor: 1.0806943665825415, average charge: 1
+measured: 13459824.5836, calculated: 13459834.669714099, photon distance: 122.5289712532064, charge portion: 4.832493283878242, distance factor: 122.5292262946644, charge factor: 1.0463303384693987, average charge: 1
+measured: 13459807.7437, calculated: 13459557.842395715, photon distance: 155.75619959282622, charge portion: 8.828735378567478, distance factor: 155.75640022676538, charge factor: 1.5037991970306557, average charge: 1
+measured: 13459335.0421, calculated: 13459391.99085011, photon distance: 135.3822020838177, charge portion: 7.669583804240187, distance factor: 135.38243291159918, charge factor: 1.502957613853452, average charge: 1
+measured: 13459095.6612, calculated: 13459226.15810343, photon distance: 115.0176967062166, charge portion: 6.5101681664881585, distance factor: 115.01796840321614, charge factor: 1.5016328653228186, average charge: 1
+measured: 13459895.4842, calculated: 13460024.124876171, photon distance: 182.9471639057216, charge portion: 37.90418061018975, distance factor: 182.947334719987, charge factor: 5.496652428019616, average charge: 1
+Qvalue: 6758.960222420865
+
+initial guess: (57.063852766063064, 64.11536005247035, -179.0650571048609, -0.1254027618895659, 4.767396150133902, <icecube.dataclasses.I3Particle object at 0x145dc6b48520>), 
+value of Q: 19260.660404105405
+results:
+------------------------------------------------------------------
+| FCN = 7648                    |     Ncalls=194 (194 total)     |
+| EDM = 3.87E-06 (Goal: 0.0002) |            up = 1.0            |
+------------------------------------------------------------------
+|  Valid Min.   | Valid Param.  | Above EDM | Reached call limit |
+------------------------------------------------------------------
+|     True      |     True      |   False   |       False        |
+------------------------------------------------------------------
+| Hesse failed  |   Has cov.    | Accurate  | Pos. def. | Forced |
+------------------------------------------------------------------
+|     False     |     True      |   True    |   True    | False  |
+------------------------------------------------------------------
+<ValueView of Minuit at 2b86600>
+  q_x: 103.195032003
+  q_y: 65.4799579551
+  q_z: -144.725157081
+  u_z: -0.0232447941136
+  phi: 1.94928073682e-09
+
+
+measured: 8959776.61894, calculated: 8959856.505134933, photon distance: 101.30801577303089, charge portion: 5.674975642673525, distance factor: 101.30832423778746, charge factor: 2.9722553389935875, average charge: 2
+measured: 8959935.29174, calculated: 895

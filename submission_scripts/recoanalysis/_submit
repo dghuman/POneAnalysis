@@ -1,0 +1,8 @@
+Universe = vanilla
+Executable = /home/users/ghuman/simAnalysis/bash_scripts/recoanalysis.sh
+#notify_user = dilraj.ghuman@queensu.ca
+#Arguments = 
+Log = /home/users/ghuman/simAnalysis/submission_scripts/recoanalysis/logs/log.log
+Output = /home/users/ghuman/simAnalysis/submission_scripts/recoanalysis/logs/out.out
+Error = /home/users/ghuman/simAnalysis/submission_scripts/recoanalysis/logs/error.error
+Queue

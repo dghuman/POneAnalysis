@@ -1,0 +1,8 @@
+Universe = vanilla
+Executable = /home/users/ghuman/simAnalysis/bash_scripts/linefit.sh
+#notify_user = dilraj.ghuman@queensu.ca
+#Arguments = 
+Log = /home/users/ghuman/simAnalysis/submission_scripts/linefit/logs/linefit.log
+Output = /home/users/ghuman/simAnalysis/submission_scripts/linefit/logs/linefit.out
+Error = /home/users/ghuman/simAnalysis/submission_scripts/linefit/logs/linefit.error
+Queue
