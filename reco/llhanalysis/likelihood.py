@@ -38,7 +38,7 @@ def get_t_0(frame):
 
 # Pulled directly from dvir_Analysis/imporvedTrackReco.py. Just a first guess using linefit. t_0 is the first hit time for each DOM
 def InitialGuess(frame, domsUsed, t_0):
-        data = SimAnalysis.getLinefitDataPoints(frame, geometry)
+    data = SimAnalysis.getLinefitDataPoints(frame, geometry)
     u, speed, vertex = SimAnalysis.linefitParticleParams(data)
 
     phi = np.arctan2(u.y, u.x)/I3Units.deg 
@@ -60,16 +60,45 @@ def InitialGuess(frame, domsUsed, t_0):
     return q.x, q.y, q.z, u.z, phi, linefit, data
 
 # Functional that is fed data from InitialGuess for PMT locations. Uses those locations to build a Pandel Function for a given track
-class LikelihoodFunctor():
+def LikelihoodFunctor(data):
+    # turn PMT locations and time hits into numpy arrays for easier numpy algebra
+    data = np.array(data)
+    pmt = data[:,0:3]
+    t = data[:,3]
     
-    def __init__(self, frame, t, d):
-        self.frame = frame 
-        self.t = t
-        self.d = d
+    # The computations from here on require we find the time and distance of closest approach, d_i,c and t_i,c
+    def closestApproach(linefit):
+        # Compute vec{r} - vec{x}
+        vertex = linefit.pos
+        x = pmt[:,0] - vertex.x
+        y = pmt[:,1] - vertex.y
+        z = pmt[:,2] - vertex.z
+        # Compute (\vec{r} - vec{x}) dot \vec{v}
+        v = linefit.dir
+        dotprod = x*v.x + y*v.y + z*v.z
+        # Compute the final vector components
+        x = x - dotprod*v.x
+        y = y - dotprod*v.y
+        z = z - dotprod*v.z
+        # Compute t_i,c and d_i,c
+        dc = np.sqrt(np.square(x) + np.square(y) + np.square(z))
+        tc = dotprod/c
+        return dc, tc
+
+    # Time Offset used so the time of the track relates to the time observed by the first PMT 
+    def computeOffset(linefit, t_ic, d_ic):
+        t_off = t[0] - d_ic/(np.sin(theta_c)*c) - (t_ic + np.sign(t_ic)*d_ic/(np.tan(theta_c)*c))
+        return t_off
+
+    def computeResiduals(linefit,dc,tc):
         
-    def likelihoodFunction(self, linefit):
         
 
+    # uses the prior defined functions to build a likelihood function that when given a track (linefit) will produce a negative loglikelihood value
+    def likelihoodFunction(linefit):
+        
+
+    return likelihoodFunction
 
 # Main function of this file. Structured this way so that it can be easily imported aswell in any other implementation.                                   
 
